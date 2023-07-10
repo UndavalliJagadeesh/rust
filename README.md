@@ -1,2 +1,2 @@
-# rust
+# RUST
 Programming in RUST
